@@ -1,6 +1,6 @@
 # _[Best Restaurants](https://github.com/KristaRutz/best-restaurants)_
 
-#### _Brief desc of Project, 03.19.2020_
+#### _Favorite Restaurant Tracker, 03.19.2020_
 
 #### By _**Tiffany Siu and Krista Rutz**_
 
